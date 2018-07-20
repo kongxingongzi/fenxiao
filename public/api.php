@@ -69,3 +69,5 @@ return false;
 }
 }
 }
+
+echo "12345";
