@@ -5,7 +5,8 @@
 //define your token
 define("TOKEN", "token");
 $wechatObj = new wechatCallbackapiTest();
-$wechatObj->valid();
+// $wechatObj->valid();
+echo '睡觉了，晚安';
 class wechatCallbackapiTest
 {
 	public function valid()
